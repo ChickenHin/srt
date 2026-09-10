@@ -1,8 +1,8 @@
 name: QEMU to run s390x-focal
 
 on:
-  push:
-    branches: [ "master", "dev" ]
+  # push:
+  #   branches: [ "master", "dev" ]
   pull_request:
     branches: [ "master", "dev" ]
 
